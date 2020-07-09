@@ -234,7 +234,6 @@ h2 {
 }
 
 #skilllist {
-  margin-left: 10px;
   text-align: center;
   font-family: "Montserrat", sans-serif;
 }
@@ -414,12 +413,6 @@ form{
 .profileword{
   margin-left: auto;
   margin-right: auto;
-}
-
-.contact {
-  background-color: #eee;
-  width: 100%;
-  height: 400px;
 }
 
 .twitter{
